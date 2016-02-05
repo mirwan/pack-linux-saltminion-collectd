@@ -9,7 +9,7 @@
 	  {
 		"name": "Sebastien Coavoux",
 		"email": "sebastien.coavoux@savoirfairelinux.com"
-	  },
+	  }
 	],
 	"repository": "https://github.com/savoirfairelinux/pack-linux-saltminion-collectd.git",
 	"keywords": [
